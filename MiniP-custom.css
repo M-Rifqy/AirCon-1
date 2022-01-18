@@ -276,7 +276,7 @@ body {
     transition: 0.5s;
 }
 
-.choose-item i:hover {
+.choose-item:hover i {
     background-color: #212121;
     color: #ffffff;
 }
